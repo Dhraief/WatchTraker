@@ -8,6 +8,7 @@ This github here contains the data collection and data post-processing steps.
 The file Signal Microphone.ino collects the signal recorded by the microphone of the Arduino and transforms it to a digital  signal.
 
 2- Data  post-processing:
+
 a- Chronometry
 The folder Chronometry contains the MATLAB Code Timegraph.m that detects the picks of the chronometry and outputs the beat error and the deviation. Graph examples of have been generated to illustrate the purpose of the file
 
