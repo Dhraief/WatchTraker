@@ -32,7 +32,7 @@ In this folder, the Report Generate Notebook generate the report based on all th
 
 Special thanks to:
 
-Paul Bertusi from Vacheron Constantin
+Paul Bertusi 
 Prof. Véronique Michaud
 Prof. Thomas Weber
 The Teaching Assistant team
