@@ -1,6 +1,6 @@
 # Introduction:
 
-This github was created part of the course MGT-555 Innovation & entrepreneurship in Engineering in collaboration with Vacheron Constantin. The goal of the project is to create a prototype that can evaluate the health of the watch on the wrist
+This github was created part of the course MGT-555 Innovation & entrepreneurship in Engineering. The goal of the project is to create a prototype that can evaluate the health of the watch on the wrist
 This github here contains the data collection and data post-processing steps.
 
 # Data Collection
